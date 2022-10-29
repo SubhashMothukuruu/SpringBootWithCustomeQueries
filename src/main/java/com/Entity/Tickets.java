@@ -13,6 +13,7 @@ import org.hibernate.annotations.GeneratorType;
 
 
 
+
 @Entity
 @Table(name = "TICKETS")
 public class Tickets {
